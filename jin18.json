@@ -145,6 +145,7 @@
       "name": "艾旦影视",
       "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
       "detail": "https://lovedan.net"
+    },
     "yzzy": {
       "name": "优质资源",
       "api": "https://api.yzzy-api.com/inc/apijson.php",
