@@ -107,7 +107,7 @@
       "detail": "https://p2100.net"
     },
     "api.ukuapi88.com": {
-      "name": "U酷资源",
+      "name": "U酷影视",
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "detail": "https://www.ukuzy.com"
     },
@@ -145,10 +145,11 @@
       "name": "艾旦影视",
       "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
       "detail": "https://lovedan.net"
+    },
     "yzzy": {
       "name": "优质资源",
       "api": "https://api.yzzy-api.com/inc/apijson.php",
-      "detail": ""
+      "detail": "https://lovedan.net"
     }
   }
 }
